@@ -1,0 +1,2 @@
+# dashboard-syncfusion
+Example dashboard
